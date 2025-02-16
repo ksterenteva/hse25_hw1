@@ -25,13 +25,20 @@
 В отчетах находятся графики, которые показывают уровень метилирования на хромосому. 
 Наибольшая доля метилирования наблюдается в образце Epiblast (77-78%), затем в образце 8_cell (42-45%), а наименьшая доля метилирования у образца icm (22-24%), такое распределение соответствует литературным данным, что доказывает, что работа проделана корректно. 
 
+##### 8cell – 8-клеточный эмбрион, примерно 2.25 дня после оплодотворения яйцеклетки
+![8_cell_Read_1](https://github.com/user-attachments/assets/c3e298d9-758a-44a7-874c-aed0de95206b)
+![8_cell_Read_2](https://github.com/user-attachments/assets/eec9deee-3c7c-4eba-a9e6-bea1c52dfd7a)
+
+
+##### ICM – внутренняя клеточная масса бластоциста, примерно 3.5 дня после оплодотворения яйцеклетки
+![icm_Read_1-1](https://github.com/user-attachments/assets/0f5c22bd-1645-42f2-b47f-9f4c71d7ed90)
+![icm_Read_2-1](https://github.com/user-attachments/assets/9e8213e7-7bc0-493e-96d7-5b4a5b0d2f1e)
+
 
 
 ##### Epiblast – стадия эпибласта, примерно 6.5 дней после оплодотворения яйцеклетки
-<img width="1181" alt="Снимок экрана 2025-02-16 в 21 43 38" src="https://github.com/user-attachments/assets/c7fd547b-5901-4ef7-9897-857b04570229" />
-<img width="1181" alt="Снимок экрана 2025-02-16 в 21 43 50" src="https://github.com/user-attachments/assets/1e4bf01a-7f44-4525-969b-e6f438401aea" />
-
-##### ICM – внутренняя клеточная масса бластоциста, примерно 3.5 дня после оплодотворения яйцеклетки
+![epiblast_Read_1](https://github.com/user-attachments/assets/ea34b2ce-023d-465a-a3b8-cde0c6005da6)
+![epiblast_Read_2](https://github.com/user-attachments/assets/8322dfd2-a893-4c32-b9a9-e6faaa390643)
 
 
 ### Гистограммы распределения метилирования цитозинов по хромосоме
