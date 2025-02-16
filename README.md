@@ -1,6 +1,8 @@
 # hse25_hw1
 
-# Основная часть 
+# Основная часть коллаб
+[Ссылка на коллаб](https://colab.research.google.com/drive/1sTUf4Czoi7746JVj4NDJlCudLH7Da4_q?authuser=2#scrollTo=Yh76j0rKXQzD)
+
 ### Анализ QC чтений 
 Полный отчет html находится в папке data
 
@@ -55,7 +57,8 @@
 Визуально профили покрытия схожи между всеми тремя образцами на разных стадиях развития эмбриона мыши. Следовательно, данные секвенирования были получены равномерно.
 ![image_met](https://github.com/user-attachments/assets/66e16b71-b811-4f6f-b8d7-8ff2657f06c7)
 
-# [DMR и DMC коллаб](https://colab.research.google.com/drive/1RI9xG9rPYnjw5um_z_OWujJDo37ZfC0Y?authuser=2#scrollTo=p1-D-P25cqHy)
+# DMR и DMC 
+[Ccылка на коллаб 2](https://colab.research.google.com/drive/1RI9xG9rPYnjw5um_z_OWujJDo37ZfC0Y?authuser=2#scrollTo=p1-D-P25cqHy)
 ## Дифференциально метилированные цитозины (DMC)
 
 Файлы находятся в папке data 
