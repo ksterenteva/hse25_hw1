@@ -68,7 +68,11 @@
 [Ccылка на коллаб 2](https://colab.research.google.com/drive/1RI9xG9rPYnjw5um_z_OWujJDo37ZfC0Y?authuser=2#scrollTo=p1-D-P25cqHy)
 ## Дифференциально метилированные цитозины (DMC)
 
-Файлы находятся в папке data 
+Файлы не загружаются в папку data из-за больших размеров, могу прислать если нужно, вот скрины:
+<img width="614" alt="Снимок экрана 2025-02-16 в 23 36 03" src="https://github.com/user-attachments/assets/b87287e5-9453-430e-a356-2da95963273a" /><img width="614" alt="Снимок экрана 2025-02-16 в 23 36 14" src="https://github.com/user-attachments/assets/2523d6b1-caa6-4226-8ae7-fd414ab92ebe" /><img width="614" alt="Снимок экрана 2025-02-16 в 23 36 23" src="https://github.com/user-attachments/assets/31ac07f5-05f1-45c2-b0cb-785181326243" />
+
+
+
 
 На следующих графиках можем увидеть распределение разницы метилирования между двумя группами. График должен отражать паттерны изменения уровня метилирования между двумя состояниями.
 8-клеточная стадия (8cell) vs Эпибласт (epiblast)
