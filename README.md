@@ -100,3 +100,14 @@
 
 ![Unknown-10](https://github.com/user-attachments/assets/9a353d83-def4-4e99-a7ff-1ac898a67b42)
 
+
+# Дополнительная часть 
+
+## Определение в каких генах попадают DMR
+
+Все результаты находятся в папке data 
+
+DMR_in_genes_8cell_icm_chr11.bed, DMR_in_genes_8cell_epiblast_chr11.bed, DMR_in_genes_icm_epiblast_chr11.bed - результат программы bedtools, координаты пересечения между генами и метилированными участками 
+
+Final_DMR_in_Genes_8cell_icm_chr11.bed, Final_DMR_in_Genes_8cell_epiblast_chr11.bed, Final_DMR_in_Genes_icm_epiblast_chr11.bed - координаты с названиями генов 
+
