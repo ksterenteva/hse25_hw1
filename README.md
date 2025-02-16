@@ -108,6 +108,7 @@
 # Дополнительная часть 
 
 ## Определение в каких генах попадают DMR
+[Cсылка на коллаб 3](https://colab.research.google.com/drive/1WkKOUdcxESIV2QzV-4_BlWT6GT9U_irp?authuser=2#scrollTo=oUXvC2gVdKUf)
 
 Все результаты находятся в папке data 
 
